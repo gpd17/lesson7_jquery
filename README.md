@@ -4,20 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 3, 2018
 
 ### Student Name:  
-(First and Last Name)
+Gabby Dunlap
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this lesson, I created a jquery file. I used this file to add animation and fade effects to my index.html and index2. html file. 
 
 ### View Project Online:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. In this assignment, I learned about jQuery selectors. They allow you to select and change HTML element(s). An interesting fact about jQuery selectors is they all start with the dollar sign and parentheses:
+$().
+2. I also learned about jQuery animation. Some common jQuery effects include hide and show. With this code you can also determine if you want it to hide and show fast or slow.
+3. Another jQuery element I learned is transversing. Transvering simply means to move through. The process starts by selecting and HTML element and moving through it until you reach the elements you desire. 
 
