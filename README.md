@@ -13,8 +13,7 @@ Gabby Dunlap
 In this lesson, I created a jquery file. I used this file to add animation and fade effects to my index.html and index2. html file. 
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ide.c9.io/gpd17/dunlap_lesson7_jquery
 
 ### Lessons Learned in the Assignment:
 1. In this assignment, I learned about jQuery selectors. They allow you to select and change HTML element(s). An interesting fact about jQuery selectors is they all start with the dollar sign and parentheses:
