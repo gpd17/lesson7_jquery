@@ -1,0 +1,1 @@
+Since I liked the way the Brownie recipe display app turned out, I modeled my Lasagna similarly. I used next().animate( {height: 'toggle'}; however, I altered the animation a little. I wanted to see how it looked if the animation was fast instead of slow, and I thought it looked cool. So, my recipe code is "fast". 
